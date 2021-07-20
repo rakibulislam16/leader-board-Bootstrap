@@ -1,0 +1,49 @@
+/* importing custom fonts and other files  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto&display=swap');
+
+
+body{
+    background-color:#F3F1FF;    
+}
+.header-background{
+    background-color: #562EFF;
+}
+.heading-text{
+    color: #562EFF;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 35px;
+    margin-bottom: 35px;
+}
+.player-img{
+    margin-right: 16px;
+}
+.player-name{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.horizontal-line{
+    border: 1px solid #D1D1D1;
+}
+.top-blog-text{
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.author-text{
+    color: #562EFF ;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif ;
+}
+.by-text{
+    color: #9F9F9F;
+}
+.author-text{
+    color: #ED6B4F;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
